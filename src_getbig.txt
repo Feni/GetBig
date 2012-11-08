@@ -1,0 +1,7 @@
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\Collision.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\Display.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\Dust.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\GetBig.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\Particle.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\UserInterface.java"
+"C:\\Users\\HappyLogic\\Documents\\My Dropbox\\GetBig\\src\\GetBig\\World.java"

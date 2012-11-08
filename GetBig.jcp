@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>GetBig</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>src\GetBig\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0_17</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="GetBig.GetBig"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>GetBig.GetBig</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\GetBig</path>
+			</folderitem>
+			<fileitem>
+				<path>src\GetBig\Collision.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\Display.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\Dust.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\GetBig.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\Particle.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\UserInterface.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GetBig\World.java</path>
+				<folder>src\GetBig</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\GetBig\GetBig.java</filepath>
+			<line>18</line>
+			<timestamp>1264951063</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>

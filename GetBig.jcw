@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>GetBig</label>
+	</settings>
+	<users>
+		<user>
+			<path>GetBig.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GetBig.jcp</path>
+		</project>
+	</projects>
+</workspace>
